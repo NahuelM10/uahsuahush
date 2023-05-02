@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Open+Sans:ital,wght@0,300;0,500;1,700&display=swap');
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("imagenes/lionel-messi-fifa-world-cup-trophy-2022-winner-4k-wallpaper-uhdpaper.com-960@0@h.jpg");
+    background-color: rgba(0, 0, 0, 0.63);
+}
+
+
+
+h1,h2,p,ul {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+}
+
+
+
+img {
+    margin-right: auto;
+    margin-left: 15px;
+    width: 820px;
+    height: 480px;
+}
+
+
+
+h2,ul {
+    text-align: left;
+}
+
+
+
+footer {
+    background-color: rgba(0, 0, 0, 0.753);
+    color: rgb(64, 64, 161);
+    margin: 0;
+    width: 3700px;
+    height: 50px;
+}
+
+
+
+.iniciarse {
+    text-align: center;
+    margin-left: 1000px;
+    width: 500px;
+    padding-top: 5px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+
+
+.datos h2 {
+    padding-left: 120px;
+}
+
+
+
+.videos {
+    font-size: 40px;
+}
+
+
+
+iframe {
+    box-flex: 50px;
+    padding-left: 1000px;
+    display: inline-flex;
+}
+
+
+
+.biografia img {
+    width: 200px;
+    height: auto;
+    padding-left: 58px;
+
+}
+
+
+
+.biografia h1 {
+    text-align: left;
+    padding-left: 100px;
+}
+
+
+
+.biografia p {
+    text-align: justify;
+    padding-left: 20px;
+}
+
+
+
+.titulo h1 {
+    font-family: 'Gruppo', cursive;
+    font-size: 70px;
+    border-radius: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.747);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: -30px;
+    margin-left: -30px;
+}
